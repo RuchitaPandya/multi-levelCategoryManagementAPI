@@ -35,7 +35,7 @@ A Node.js + Express.js + TypeScript + MongoDB API for managing nested categories
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/category-management-api.git
+git clone https://github.com/RuchitaPandya/multi-levelCategoryManagementAPI.git
 cd category-management-api
 ```
 
